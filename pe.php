@@ -1,14 +1,6 @@
 <?php
 /*
-API Name:云梦泽深林随机图片API
-Version:1.0.0
-ForPHP:5.6+
-Origin Author:倾丞(Jochen)/瑾忆(自醉)
-Author Url:https://blog.qcair.cc/
-Author Email:admin@qcair.cc
-Secondary Development Author:小俊(LaulzGoay)
-Secondary Development Author Url:https://www.smalljun.com
-Secondary Development Author Email:lgy@ymzsl.com
+API Name:云间随机图片API
 */
 
 //使用Curl获取远程数据模块
